@@ -2,42 +2,14 @@
     <channel>
         <title><![CDATA[Harbour View Services ]]></title>
         <description><![CDATA[Harbour View Services ]]></description>
-        <link>https://thegrid.ai/harbour-view-services/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:44:12 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/harbour-view-services/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e34fa03-eb32-4649-9ff4-daa0daadc4cd.jpg">]]></description>
-            <link>https://thegrid.ai/harbour-view-services/farm-to-fork-dining-exclusive-to-yis/index.html</link>
-            <guid isPermaLink="false">54e5b193-b901-415e-a3b9-b0e0313a148a</guid>
-            <pubDate>Thu, 18 Aug 2016 12:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/943e1327-20b0-482a-a269-fd31e75397a3.jpg">]]></description>
-            <link>https://thegrid.ai/harbour-view-services/nutritious-delicious-rolls/index.html</link>
-            <guid isPermaLink="false">f67a669e-4736-442f-b4df-ecaa7b87fd8f</guid>
-            <pubDate>Thu, 18 Aug 2016 12:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00402874-e5ae-42ed-a629-2fb61d8764f2.jpg">]]></description>
-            <link>https://thegrid.ai/harbour-view-services/super-food-breakfast/index.html</link>
-            <guid isPermaLink="false">3f319c8c-4749-4671-acf6-0174fdc4121f</guid>
-            <pubDate>Thu, 18 Aug 2016 12:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e22cae-05af-4935-9a92-9c35fd744dd4.jpg">]]></description>
-            <link>https://thegrid.ai/harbour-view-services/meet-our-new-yis-dragons/index.html</link>
-            <guid isPermaLink="false">bc9c56c1-9ddf-424d-99c1-e3524065dda5</guid>
-            <pubDate>Thu, 18 Aug 2016 12:42:39 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 18 Aug 2016 12:44:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64daa118-55e8-4823-bd15-ceb91a874cf3.jpg">]]></description>
-            <link>https://thegrid.ai/harbour-view-services/early-apples-from-niigata/index.html</link>
+            <link>undefinedearly-apples-from-niigata/index.html</link>
             <guid isPermaLink="false">c14df6c9-20fc-43b1-af1a-bf67997992dd</guid>
             <pubDate>Thu, 18 Aug 2016 12:42:37 GMT</pubDate>
         </item>
