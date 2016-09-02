@@ -1,16 +1,16 @@
-typography_spectrum: 0.9680740553885698
+layout_spectrum: 0.35128766973502934
+typography_spectrum: 0.5282322100829333
 color:
-  brandStrength: 0.1829461904708296
-  lightness: 0.6316668649669737
-  saturation: 0.7508898745290935
-  rhythmicContrast: 0.6305064328480512
+  brandStrength: 0.06118755857460201
+  lightness: 0.0852438067086041
+  saturation: 0.8146237863693386
+  rhythmicContrast: 0.6395680957939476
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
-layout_spectrum: 0.002437662100419402
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/56bee399-d28a-4a51-b8f7-abcd3cb58ec8.jpg
 name: Harbour View Services
